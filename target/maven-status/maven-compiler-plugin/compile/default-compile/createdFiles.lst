@@ -1,0 +1,7 @@
+com\spring\service\UserService.class
+com\spring\service\UserServiceImpl.class
+com\spring\dao\UserDao.class
+com\spring\app\SpringJpaApp.class
+com\spring\config\AppConfig.class
+com\spring\entity\UserEntity.class
+com\spring\dao\UserDaoImpl.class
